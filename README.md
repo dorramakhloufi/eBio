@@ -45,15 +45,13 @@ We build it using nodejs express for authentification with jwt and backend and r
 
 
   <div align="center">
+
+   <a href="https://angular.io/" title="Angular">
+   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="React" width="150" height="150">
+  </a>
 	
 <a href="https://dev.mysql.com/" title="MySQL">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="Mongodb" width="150" height="150"></a>
-
-	
- <a href="https://angular.io/" title="Angular">
-   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="React" width="150" height="150">
-  </a>
-
 	
   <a href="https://nodejs.org/en/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="150" height="150"/>
