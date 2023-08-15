@@ -51,7 +51,7 @@ We build it using nodejs express for authentification with jwt and backend and r
 
 	
  <a href="https://angular.io/" title="Angular">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/reactjs-icon.svg" alt="ReactJS" width="150" height="150">
+   <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="React" width="150" height="150">
   </a>
 
 	
