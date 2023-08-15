@@ -20,8 +20,9 @@ This is the official eBio web app documentation <br/>
       <a href="#-about-the-project">About The Project</a>
     </li>
     <li>
+	    <a href="#-contributing">Contributing</a>
     </li>
-    <li><a href="#-contributing">Contributing</a></li>
+   
 
 
   </ol>
@@ -46,11 +47,11 @@ We build it using nodejs express for authentification with jwt and backend and r
   <div align="center">
 	
 <a href="https://dev.mysql.com/" title="MySQL">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="150" height="150"></a>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="Mongodb" width="150" height="150"></a>
 
 	
  <a href="https://angular.io/" title="Angular">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="150" height="150">
+   <img src="https://github.com/get-icon/geticon/raw/master/icons/react-icon.svg" alt="React" width="150" height="150">
   </a>
 
 	
@@ -61,10 +62,6 @@ We build it using nodejs express for authentification with jwt and backend and r
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="150" height="150"/>
     </a>
   
- <a href="https://spring.io/" title="Spring">
-   <img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="150" height="150"></a>
-
-  </a>
   </div>
   
 <p align="right">(<a href="#top">back to top</a>)</p>
