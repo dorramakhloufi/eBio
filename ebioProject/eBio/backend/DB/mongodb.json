@@ -1,0 +1,6 @@
+{
+    "mongo":{
+        "uri":"mongodb+srv://ahmedbenguebila:ahmed2000@cluster0.2dwdyr1.mongodb.net/node-auth"
+        
+    }
+}
