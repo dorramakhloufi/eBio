@@ -32,7 +32,7 @@ This is the official eBio web app documentation <br/>
  
 
 eBio is an academic project build for managing local farmers, providing food recommendations to users based on their nutritional requirements and preferences, reducing food waste, and incentivizing users to fill out forms and provide data on food waste.
-We build it using nodejs express for authentification with jwt and backend and react as frontend-framework using mongodb as database .
+We build it using NodeJS express for authentification with jwt and backend and ReactJS as frontend-framework using mongodb as database .
 
 
 
